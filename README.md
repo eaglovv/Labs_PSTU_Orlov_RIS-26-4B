@@ -1,19 +1,8 @@
-# Labs\_PSTU\_Orlov\_RIS-26-4B
+# Labs_PSTU_Orlov_RIS-26-4B
 
+## MY BIO
 
+<img src="img/m1000x1000.webp" alt="Avatar" width="200" />
 
-\## MY BIO
-
-
-
-!\[click](img/m1000x1000.webp)
-
-
-
-
-
-* \*\*Name:\*\* Orlov Arseniy
-* \*\*Group:\*\* RIS-26-4B
-
-
-
+* **Name:** Orlov Arseniy
+* **Group:** RIS-26-4B
